@@ -5,3 +5,7 @@ body {
 header {
 	font-size: 12px;
 }
+
+.container {
+	width: 100%;
+}
